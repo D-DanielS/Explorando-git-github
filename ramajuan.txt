@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+RamaMaster , HolaMundo!
+=======
+Nueva texto de la rama juan.txt
+
+HOLA
+>>>>>>> juan
